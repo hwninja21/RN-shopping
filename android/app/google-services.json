@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "994936697104",
+    "firebase_url": "https://dei-portal-1573985947236.firebaseio.com",
+    "project_id": "dei-portal-1573985947236",
+    "storage_bucket": "dei-portal-1573985947236.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:994936697104:android:9b1b47a72b584f19ccf595",
+        "android_client_info": {
+          "package_name": "com.dei.shop.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "994936697104-q6l9apf47akh8jphdg1t49k0qei7lus9.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.dei.shop.app",
+            "certificate_hash": "665b41cfe3579e7aa4a3572e2516828929d65398"
+          }
+        },
+        {
+          "client_id": "994936697104-bs51hurd98oppt59eti5f94j0rhp3usd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCMW23j7X0Eg3xoGGeAcEi3UIXYMlwB_WI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "994936697104-bs51hurd98oppt59eti5f94j0rhp3usd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
